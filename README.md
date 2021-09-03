@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art22m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **art22m/art22m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
