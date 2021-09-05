@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art22m&layout=compact&theme=radical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art22m&layout=compact&theme=radical&hide=CMake,Makefile)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 <!--
