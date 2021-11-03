@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art22m&langs_count=5&theme=onedark&hide=CMake,Makefile)](https://www.youtube.com/watch?v=CdmhI7piJ28)
 [![Code Wars](https://www.codewars.com/users/art22m/badges/large)](https://www.codewars.com/users/art22m)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=art22m&langs_count=5&theme=onedark&hide=CMake,Makefile)](https://www.youtube.com/watch?v=CdmhI7piJ28)
 <!--
 **art22m/art22m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
